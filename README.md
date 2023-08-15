@@ -17,13 +17,13 @@ A Bookstore located in Kuala Lumpur Malaysia has vast collection of books in its
 - Member can also provide review for a book, as a rating (1-10 which is 1= terrible, 10= masterpiece) along with optional short text. No changes are allowed; only one review per member per book is allowed.
 
 ### Coursework Details:
-1.	Overview
+**1.	Overview**
 
 In this assignment, you are required to design, implement, and document a database system for an electronic bookstore named as E-Bookstore.
 
-2.	Deliverables:
+**2.	Deliverables:**
 
-a)	Design a database solution for the given scenario and document the following: 
+**a)	Design a database solution for the given scenario and document the following:**
 Minimum requirement of your documentation:
 - Introduction of case study, advantages of database and DBMS
 - List of business rules (15-20 sentences) relevant to the database
@@ -37,7 +37,8 @@ Screen shots of DDL and implemented tables with rows of data (insert 5-10 rows o
 ### Data Manipulation Language (DML)
 Screen shots of DML and the executed results from question 2b (below).
 
-b)	Create the following queries using Data Manipulation Language (DML) 
+<br></br>
+**b)	Create the following queries using Data Manipulation Language (DML)**
 
 i.	Find the total number of feedbacks per book. Show book id, book title, and total number of feedbacks per book.
 
